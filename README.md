@@ -4,7 +4,7 @@ Welcome to the source code of my personal portfolio website. This project showca
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://punit-yd-portfolio.vercel.app/)
+[View Live Portfolio](https://punit-portfolio-nine.vercel.app/)
 
 ## 🛠 Tech Stack
 
